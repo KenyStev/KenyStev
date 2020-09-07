@@ -14,14 +14,13 @@ I'm eager to learn every single day and become the better version of myself. Alt
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KenyStev&layout=compact&theme=radical" />
 </a>
 
-</br>
+#####
 
 - 🌱 I’m currently learning Haskel and 日本語
 - 👯 I’m looking to collaborate on any fun Open-Source Compiler
 - 💬 Ask me about Design Patterns
 
 ## Find me around the web:
----
 * Prototyping on [codepen](https://codepen.io/kenystev)
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/kevin-estevez-01a12115a)
 * Writing articles on [Dev.To](https://dev.to/kenystev)
