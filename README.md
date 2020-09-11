@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Kevin 👋
 
-I'm a software engineer who is passionate about making well structered clean and deep core algorithms, so I'm pretty oriented to game developmant, hyped by compilers develiping ang all kind of data structures like trees, graphs, maps, sets, hashes and so on.
+I'm a software engineer who is passionate about making well structured clean and deep core algorithms, so I'm pretty oriented to game development, hyped by compilers developing and all kind of data structures like trees, graphs, maps, sets, hashes and so on.
 
-Although when working for a company I'm been more oriented and experienced to work as a Full-Stack developer, from bottom up making Database decisions, Controllers, API endpoints (Backend), Templationg views and Implementing full Frontend pages whether Single Page Applications, Server Side Rendering or Hybrid.
+Although when working for a company I've been more oriented and experienced to work as a Full-Stack developer, from bottom up making Database decisions, Controllers, API endpoints (Backend), Templating views and Implementing full Frontend pages whether Single Page Applications, Server Side Rendering or Hybrid.
 
-I've sharped the skills of fast learning, fit in the desired environment and performing deep usefull reaserches; so it doesn't matter the stack I'd better handle the task I bet I'll commit it.
+I've got sharped the skills of fast learning, fit in the desired environment and performing deep useful researches; so it doesn't matter the stack, I'd better handle the task, I bet I'll commit it.
 
-I'm eager to learn every single day and become the better version of myself. Although most of the technologies I've been udes to work with are:
+I'm eager to learn every single day and become the better version of myself. Although most of the technologies I've been used to work with are:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KenyStev&layout=compact&theme=radical" />
